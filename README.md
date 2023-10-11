@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Windowsbang)
+
 ![](https://raw.githubusercontent.com/Windowsbang/Windowsbang/main/assets/github-contribution-grid-snake.svg)
 
 <!--
