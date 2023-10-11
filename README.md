@@ -5,6 +5,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Windowsbang)
 ![](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=Windows&logoColor=blue)
 ![](https://raw.githubusercontent.com/Windowsbang/Windowsbang/main/assets/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Windowsbang&layout=compact&theme=tokyonight)
 
 <!--
 **Windowsbang/windowsbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
